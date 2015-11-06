@@ -1,4 +1,5 @@
 # Boss-SVG-Tribute-Pack
+SVG images BOSS style guitar effects.
 
 ## License
 
