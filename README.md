@@ -12,3 +12,4 @@ This work is licensed under the [Attribution-NonCommercial-ShareAlike 4.0 Intern
 ![ds2](https://SVG-Effects-Pedals.github.io/Boss-SVG-Tribute-Pack/ds2.svg)
 ![ph-1r](https://SVG-Effects-Pedals.github.io/Boss-SVG-Tribute-Pack/ph-1r.svg)
 ![sd1](https://SVG-Effects-Pedals.github.io/Boss-SVG-Tribute-Pack/sd1.svg)
+![bf2](https://SVG-Effects-Pedals.github.io/Boss-SVG-Tribute-Pack/bf2.svg)
